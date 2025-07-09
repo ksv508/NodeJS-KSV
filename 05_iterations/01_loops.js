@@ -1,5 +1,5 @@
-// //1st Class
-// // for
+//1st Class
+// for
 // for (let i = 0; i <= 10; i++) {
 //     const element = i;
 //     if (element == 5) {
@@ -9,7 +9,7 @@
     
 // }
 
-// // console.log(element);
+// console.log(element);
 
 // for (let i = 1; i <= 10; i++) {
 //     //console.log(`Outer loop value: ${i}`);
@@ -19,8 +19,8 @@
 //    }
     
 // }
-// // let myArray = ["flash", "batman", "superman"]
-// //console.log(myArray.length);
+// let myArray = ["flash", "batman", "superman"]
+//console.log(myArray.length);
 // for (let index = 0; index < myArray.length; index++) {
 //     const element = myArray[index];
 //     //console.log(element);
@@ -28,16 +28,16 @@
 // }
 
 
-// // break and continue
+// break and continue
 
-// // for (let index = 1; index <= 20; index++) {
-// //     if (index == 5) {
-// //         console.log(`Detected 5`);
-// //         break
-// //     }
-// //    console.log(`Value of i is ${index}`);
+// for (let index = 1; index <= 20; index++) {
+//     if (index == 5) {
+//         console.log(`Detected 5`);
+//         break
+//     }
+//    console.log(`Value of i is ${index}`);
     
-// // }
+// }
 
 // for (let index = 1; index <= 20; index++) {
 //     if (index == 5) {
@@ -50,17 +50,17 @@
 
 
 
-// //2nd Class
+//2nd Class
 
 // let index = 0
-// // while (index <= 10) {
-// //     console.log(`Value of index is ${index}`);
-// //     index = index + 2
-// // }
+// while (index <= 10) {
+//     console.log(`Value of index is ${index}`);
+//     index = index + 2
+// }
 
 // let myArray = ['flash', "batman", "superman"]
 
-// // let arr = 0
+// let arr = 0
 // while (arr < myArray.length) {
 //     //console.log(`Value is ${myArray[arr]}`);
 //     arr = arr + 1
@@ -75,11 +75,11 @@
 
 
 
-// //3rd Class
-// // for of
+//3rd Class
+// for of
 
-// // ["", "", ""]
-// // [{}, {}, {}]
+// ["", "", ""]
+// [{}, {}, {}]
 
 // const arr = [1, 2, 3, 4, 5]
 
@@ -92,7 +92,7 @@
 //     //console.log(`Each char is ${greet}`)
 // }
 
-// // Maps
+// Maps
 
 // const map = new Map()
 // map.set('IN', "India")
@@ -101,7 +101,7 @@
 // map.set('IN', "India")
 
 
-// // console.log(map);
+// console.log(map);
 
 // for (const [key, value] of map) {
 //     // console.log(key, ':-', value);
@@ -112,14 +112,14 @@
 //     game2: 'Spiderman'
 // }
 
-// // for (const [key, value] of myObject) {
-// //     console.log(key, ':-', value);
+// for (const [key, value] of myObject) {
+//     console.log(key, ':-', value);
     
-// // }
+// }
 
 
 
-// //4th Class
+//4th Class
 // const myObject = {
 //     js: 'javascript',
 //     cpp: 'C++',
@@ -137,39 +137,39 @@
 //     //console.log(programming[key]);
 // }
 
-// // const map = new Map()
-// // map.set('IN', "India")
-// // map.set('USA', "United States of America")
-// // map.set('Fr', "France")
-// // map.set('IN', "India")
+// const map = new Map()
+// map.set('IN', "India")
+// map.set('USA', "United States of America")
+// map.set('Fr', "France")
+// map.set('IN', "India")
 
-// // for (const key in map) {
-// //     console.log(key);
-// // }
-
-
+// for (const key in map) {
+//     console.log(key);
+// }
 
 
-// //5th Class
+
+
+//5th Class
 // const coding = ["js", "ruby", "java", "python", "cpp"]
 
-// // coding.forEach( function (val){
-// //     console.log(val);
-// // } )
+// coding.forEach( function (val){
+//     console.log(val);
+// } )
 
-// // coding.forEach( (item) => {
-// //     console.log(item);
-// // } )
+// coding.forEach( (item) => {
+//     console.log(item);
+// } )
 
-// // function printMe(item){
-// //     console.log(item);
-// // }
+// function printMe(item){
+//     console.log(item);
+// }
 
-// // coding.forEach(printMe)
+// coding.forEach(printMe)
 
-// // coding.forEach( (item, index, arr)=> {
-// //     console.log(item, index, arr);
-// // } )
+// coding.forEach( (item, index, arr)=> {
+//     console.log(item, index, arr);
+// } )
 
 // const myCoding = [
 //     {
@@ -193,32 +193,32 @@
 
 
 
-// //6th Class
-// // const coding = ["js", "ruby", "java", "python", "cpp"]
+//6th Class
+// const coding = ["js", "ruby", "java", "python", "cpp"]
 
 
-// // const values = coding.forEach( (item) => {
-// //     //console.log(item);
-// //     return item
-// // } )
+// const values = coding.forEach( (item) => {
+//     //console.log(item);
+//     return item
+// } )
 
-// // console.log(values);
+// console.log(values);
 
 // const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// // const newNums = myNums.filter( (num) => {
-// //     return num > 4
-// // } )
+// const newNums = myNums.filter( (num) => {
+//     return num > 4
+// } )
 
-// // const newNums = []
+// const newNums = []
 
-// // myNums.forEach( (num) => {
-// //     if (num > 4) {
-// //         newNums.push(num)
-// //     }
-// // } )
+// myNums.forEach( (num) => {
+//     if (num > 4) {
+//         newNums.push(num)
+//     }
+// } )
 
-// // console.log(newNums);
+// console.log(newNums);
 
 
 // const books = [
@@ -242,10 +242,10 @@
 
 
 
-// //7th Class
+//7th Class
 // const myNumers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// // const newNums = myNumers.map( (num) => { return num + 10})
+// const newNums = myNumers.map( (num) => { return num + 10})
 
 // const newNums = myNumers
 //                 .map((num) => num * 10 )
@@ -256,13 +256,13 @@
 
 
 
-// //8th Class
+//8th Class
 // const myNums = [1, 2, 3]
 
-// // const myTotal = myNums.reduce(function (acc, currval) {
-// //     console.log(`acc: ${acc} and currval: ${currval}`);
-// //     return acc + currval
-// // }, 0)
+// const myTotal = myNums.reduce(function (acc, currval) {
+//     console.log(`acc: ${acc} and currval: ${currval}`);
+//     return acc + currval
+// }, 0)
 
 // const myTotal = myNums.reduce( (acc, curr) => acc+curr, 0)
 
