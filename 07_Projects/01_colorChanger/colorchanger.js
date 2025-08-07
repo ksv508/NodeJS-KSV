@@ -11,5 +11,7 @@ buttons.forEach(function(button){
             body.style.backgroundColor = action.target.id;
         if(action.target.id === "gray")
             body.style.backgroundColor = action.target.id;
+        if(action.target.id === "purple")
+            body.style.backgroundColor = action.target.id;
     });
 });
