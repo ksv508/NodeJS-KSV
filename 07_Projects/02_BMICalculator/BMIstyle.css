@@ -1,9 +1,9 @@
-.container {
-  width: 575px;
-  height: 825px;
-
+.container{
+ width: 100vw;
+  height: 100vh;
   background-color: #797978;
   padding-left: 30px;
+  box-sizing: border-box;
 }
 #height,
 #weight {
@@ -43,4 +43,9 @@ h1 {
   padding-left: 15px;
   padding-top: 25px;
   
+}
+
+#image{
+  margin-left: 75px;
+  margin-top: 25px;
 }
